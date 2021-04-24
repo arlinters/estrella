@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/estrella/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/estrella/static/js/main.77ae4b21.chunk.js",
+    "main.js.map": "/estrella/static/js/main.77ae4b21.chunk.js.map",
+    "runtime-main.js": "/estrella/static/js/runtime-main.dde16dec.js",
+    "runtime-main.js.map": "/estrella/static/js/runtime-main.dde16dec.js.map",
+    "static/js/2.1d7431fa.chunk.js": "/estrella/static/js/2.1d7431fa.chunk.js",
+    "static/js/2.1d7431fa.chunk.js.map": "/estrella/static/js/2.1d7431fa.chunk.js.map",
+    "static/js/3.aa77fc9e.chunk.js": "/estrella/static/js/3.aa77fc9e.chunk.js",
+    "static/js/3.aa77fc9e.chunk.js.map": "/estrella/static/js/3.aa77fc9e.chunk.js.map",
+    "index.html": "/estrella/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/estrella/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1d7431fa.chunk.js.LICENSE.txt": "/estrella/static/js/2.1d7431fa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/estrella/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dde16dec.js",
+    "static/js/2.1d7431fa.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.77ae4b21.chunk.js"
+  ]
+}
